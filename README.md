@@ -3,13 +3,6 @@
 YApi 是一个非常优秀的项目，只是基本没有维护了。所以我们考虑新开一个分支（YApi Pro）接手维护，希望更多人能参与进来。
 YApi Pro 是 YApi 的长期维护分支，我们将长期维护，及时更新、处理问题，欢迎更多社区的小伙伴一起参与。
 
-## YApi Pro 在线版本
-
-我们将长期维护YApi的在线版本，推荐使用：https://yapi.pro
-
-在线版本可以节省大量的安装维护成本，我们有专人维护服务器，解决安全问题等，可以放心使用。
-可避免因没有及时处理安全漏洞等原因造成自己服务器被入侵勒索等。
-
 ### 最近更新 
 **v1.9.3** (2021-07-13)
 1. 修复 mockJs 运行沙盒漏洞 (近期服务因为漏洞被攻击的问题)
@@ -37,7 +30,10 @@ YApi Pro 提供 Docker 镜像，可以直接通过 Docker 安装部署，方便�
 ### 交流群
 使用问题可在群里咨询，我们基本上都能比较及时的回复
 
-![YApi微信群 QQ群](https://user-images.githubusercontent.com/87224061/125883300-bd4389f4-4749-49f1-9509-0d39a8ba6288.png)
+
+<img alt="YApi Pro 交流微信群" src="https://user-images.githubusercontent.com/87224061/125380875-838c3b00-e3c5-11eb-81eb-31bbae0a2d91.jpg" width="350" />
+<img alt="YApi Pro 交流QQ群" src="https://user-images.githubusercontent.com/87224061/125223159-e31f1380-e2fd-11eb-9feb-939eca94e8d7.jpg" width="350" />
+
 
 ## YApi  可视化接口管理平台
 
